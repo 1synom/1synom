@@ -1,4 +1,4 @@
-# 👋 ᕁ Hello!, I'm 1synom!
+# 👋 ᕁ Hello, I'm 1synom!
 
 **Welcome to my GitHub repository!**
 
